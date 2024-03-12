@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GB\C#\test_05032024\bin\Debug\net7.0\test_05032024.exe
+C:\Users\User\Desktop\GB\C#\test_05032024\bin\Debug\net7.0\test_05032024.deps.json
+C:\Users\User\Desktop\GB\C#\test_05032024\bin\Debug\net7.0\test_05032024.runtimeconfig.json
+C:\Users\User\Desktop\GB\C#\test_05032024\bin\Debug\net7.0\test_05032024.dll
+C:\Users\User\Desktop\GB\C#\test_05032024\bin\Debug\net7.0\test_05032024.pdb
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.dll
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\refint\test_05032024.dll
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.pdb
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\test_05032024.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\C#\test_05032024\obj\Debug\net7.0\ref\test_05032024.dll
