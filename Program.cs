@@ -1,4 +1,4 @@
-﻿string[] ConvertArray(string[] array)
+﻿string[] CreateConvertArray(string[] array)
 {
     string[] newArray = new string[CountNumber(array)];
    
@@ -32,5 +32,5 @@ int CountNumber(string[] array)
 
 string[] array = new string[] { "Hello", "2", "world", ":-)" };
 Console.WriteLine($"Массив исходный: [{string.Join(", ", array)}]");
-string[] newArray = ConvertArray(array);
+string[] newArray = CreateConvertArray(array);
 Console.WriteLine($"Массив измененный: [{string.Join(", ", newArray)}]");
