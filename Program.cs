@@ -1,6 +1,5 @@
 ﻿string[] ConvertArray(string[] array)
 {
-    // string[] newArray = Array.Empty<string>();
     string[] newArray = new string[CountNumber(array)];
    
     for (int i = 0, j = 0; i < array.Length; i++)
@@ -9,7 +8,6 @@
         if (res.Length < 4)
         {
             newArray[j] = res;
-            // newArray = newArray.Append(res).ToArray();
             j++;
         }
 
